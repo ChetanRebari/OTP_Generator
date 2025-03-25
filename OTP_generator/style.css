@@ -61,7 +61,7 @@ button{
     border: none;
     box-shadow: 1px 1px 3px 2px;
     border-radius: 2px;
-    background-color: blue;
+    background-color: rgb(32, 32, 201);
     color: white;
     cursor: pointer;
 }
